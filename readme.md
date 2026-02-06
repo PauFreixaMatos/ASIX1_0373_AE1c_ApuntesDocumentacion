@@ -3,7 +3,7 @@
 ### Mi primera toma de contacto con GitHub
 #### Alumno: Pau Freixa Matos
 
-# 📘 Apuntes completos de **Lenguaje de marcas y sistemas de gestión de información (ASIX1)**
+# 📘 Apuntes completos de **Lenguaje de Marcas y Sistemas de Gestión de Información (ASIX1)**
 
 ## 🧩 0. Introducción a los lenguajes de marcas
 
