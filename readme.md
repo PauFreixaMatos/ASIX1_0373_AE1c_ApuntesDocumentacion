@@ -106,6 +106,9 @@ Lenguaje de marcas ligero para crear documentos estructurados usando **texto pla
 - **Extensión**: `.md`
 - **Usado en**: GitHub, GitLab, documentación, foros.
 
+### Comentarios en Markdown
+<!-- Esto es un comentario en Markdown -->
+
 ### Encabezados
 
 | Símbolo | Nivel |
@@ -160,6 +163,9 @@ Lenguaje de marcas ligero para crear documentos estructurados usando **texto pla
 
 ### ¿Qué es HTML?
 **HTML** (HyperText Markup Language) define la **estructura y contenido** de una página web. No se encarga del diseño.
+
+### Comentarios en HTML
+<!-- Esto es un comentario en HTML -->
 
 ### Elementos y etiquetas
 Un elemento HTML se compone de:
@@ -413,6 +419,9 @@ p::first-line {
   font-weight: bold;
 }
 ```
+
+### 5.13 Comentarios en CSS
+/* Esto es un comentario en CSS */
 
 ---
 
