@@ -128,7 +128,7 @@ Lenguaje de marcas ligero para crear documentos estructurados usando **texto pla
 | *Cursiva* | `*texto*` | *Mundo* |
 | Código en línea | \`código\` | `console.log()` |
 | Enlace | `[texto](url)` | [Google](https://google.com) |
-| Imagen | `![alt](url)` | ![Logo](logo.png) |
+| Imagen | `![alt](url)` | ![Logo](img/logo.jpg) |
 | Lista desordenada | `- item` | - Elemento |
 | Lista ordenada | `1. item` | 1. Paso 1 |
 | Cita | `> texto` | > Esto es una cita |
