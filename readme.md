@@ -518,7 +518,7 @@ header {
 }
 ```
 
-## 🔤 7. **GOOGLE FONTS**
+## 🔤 7. **Google Fonts**
 
 **¿Qué es?** Servicio gratuito de Google con +1,000 fuentes web optimizadas.
 
