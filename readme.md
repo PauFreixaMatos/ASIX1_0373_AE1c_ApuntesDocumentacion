@@ -1,9 +1,9 @@
- # ASIX1_0373_AE1c_ApuntesDocumentación_FreixaPau
+ # ASIX1_0373_AE1c_ApuntesDocumentación
 ## Repositorio del Curso 2025-2026 ASIX1
 ### Mi primera toma de contacto con GitHub
 #### Alumno: Pau Freixa Matos
 
-# 📘 Apuntes completos de **Lenguajes de Marcas y Sistemas de Gestión de la Información (ASIX1)**
+# 📘 Apuntes completos de **Lenguajes de Marcas (ASIX1)**
 
 ## 🧩 0. Introducción a los lenguajes de marcas
 
