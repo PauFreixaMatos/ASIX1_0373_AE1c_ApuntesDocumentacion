@@ -3,7 +3,7 @@
 ### Mi primera toma de contacto con GitHub
 #### Alumno: Pau Freixa Matos
 
-# 📘 Apuntes completos de **Lenguajes de Marcas (ASIX1)**
+# 📘 Apuntes completos de **Lenguaje de marcas y sistemas de gestión de información (ASIX1)**
 
 ## 🧩 0. Introducción a los lenguajes de marcas
 
@@ -563,6 +563,7 @@ Gracias a este proyecto he aprendido a:
 
 📅 Curso 2025-2026  
 ✏️ Autor: Pau Freixa Matos  
-🏫 Módulo: 0373 — Llenguatges de marques i sistemes de gestió d'informació  
+🏫 Módulo: 0373 — Lenguaje de marcas y sistemas de gestión de información  
 👨‍🏫 Profesor: Alberto de Santos Ontoria
+
 
